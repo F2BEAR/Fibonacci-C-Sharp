@@ -34,7 +34,7 @@ public class Fibonacci
 	}
 }
 
-public class FirstTry
+public class MainClass
 {
 	public static void Main()
 	{
